@@ -1,4 +1,4 @@
-# Holly
+# Linacy
 
 A React implementation of Linacy frontend
 
