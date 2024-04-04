@@ -1,0 +1,42 @@
+/**
+ * Base
+ * -----------------------------------------------------------------------------
+ */
+@import 'tailwindcss/base';
+
+/**
+ * Components
+ * -----------------------------------------------------------------------------
+ */
+@import 'tailwindcss/components';
+
+
+
+/**
+ * Utilites
+ * -----------------------------------------------------------------------------
+ */
+@import 'tailwindcss/utilities';
+
+
+:root {
+    --black: #000000;
+    --dawn-pink: #f5ece5;
+    --giants-club: #ad5d50;
+    --quick-silver: #a2a5a7;
+    --shuttle-gray: #61677a;
+    --wafer: #dacbbf;
+    --waterloo-: #7a8197;
+    --white: #ffffff;
+
+    --font-size-l: 18px;
+    --font-size-m: 14px;
+    --font-size-s: 12px;
+    --font-size-xl: 22px;
+    --font-size-xxl: 38px;
+    --font-size-xxxl: 51px;
+    --font-size-xxxxl: 96px;
+    --font-family-syne: 'Syne', sans-serif;
+    --font-family-work_sans: "Work Sans", Work Sans;
+    --font-family-yaldevi_colombo_medium-regular: "Yaldevi Colombo Medium-Regular", Yaldevi Colombo Medium;
+}
